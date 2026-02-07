@@ -1,0 +1,22 @@
+ # 📅 Día 1 - 02.02.26  
+## 🎯 Lo que hemos visto hoy  
+### Mañana
+- Dinámica: Gartic Phone (sobre distorsión de información)
+- Conceptos: ¿Qué es análisis de datos?
+- Ejercicio: Palabras en griego (buscar patrones sin contexto)  
+### Tarde  
+- Git y GitHub: instalación y configuración
+- Primeros comandos: clone, status, add, commit, push
+
+## 💡 Lo que he aprendido  
+
+Nomenclatura básica y comandos básicos
+
+## ❓ Dudas que tengo  
+
+## 🔗 Recursos útiles  
+https://anais-rv.github.io/da-roadmap/  
+
+---
+
+**Siguiente paso:** Empezar SAT-01 Atlas
