@@ -21,18 +21,18 @@ https://anais-rv.github.io/da-roadmap/
 ## 🔍 Comandos investigados
 
 ### git log --oneline
-Te muestra el historial de puntos de guardado (commit) que puedes usar como recurso para saber en que punto te has quedado.
+Te muestra el historial de puntos de guardado (commit) que puedes usar como recurso para saber en que punto te has quedado.  
 Siendo el primero en la lista el último guardado.  
-Por eso es importante que los commit sean claros y bien descriptivos sobre el trabajo que has estado haciendo por última vez.  
+Por eso, es importante que los commit sean claros y bien descriptivos sobre el trabajo que has estado haciendo por última vez.  
 ### git remote -v
 Da la info de las URL en las que están conectadas tus proyectos.  
 
 ### git branch
 Lista todas las ramas creadas y la rama que esta con un * y de color verde es donde estas ubicadada en ese momento.
-	main : es la rama principal (el árbol)  
+	main : es la rama principal (el árbol).  
 
 ### git pull
-Actualiza y descarga toda la info que esta en remoto (Github) a local (El pc que estes usando)
+Actualiza y descarga toda la info que esta en remoto (Github) a local (El pc que estes usando).  
 Es muy útil, porque cuando estais varias personas trabajando en la misma rama te actualiza todo el trabajo o si no estas con tu PC principal puedes editar igualmente.
 
 ### .gitignore
@@ -43,8 +43,8 @@ El . al principio indica que es oculto.
 
 
 ### git add . vs git add archivo  
-[git add .] digamos que añade de todo lo que modificado dentro de la repositorio donde este aunque tu estes modificando solo un archivo que hay en ese repositorio.
-[git add archivo] añade solo lo modificado en el archivo que estas trabajando
+[git add .] digamos que añade  todo lo que hemos modificado dentro del repositorio donde este aunque tu estes modificando solo un archivo que hay en ese repositorio.
+[git add archivo] añade sólo lo modificado en el archivo que estas trabajando.  
   posteriormente añadir siempre un commit
 
 **Siguiente paso:** Empezar SAT-01 Atlas
