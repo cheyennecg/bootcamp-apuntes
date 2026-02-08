@@ -43,7 +43,7 @@ El . al principio indica que es oculto.
 
 
 ### git add . vs git add archivo  
-[git add .] digamos que añade  todo lo que hemos modificado dentro del repositorio donde este aunque tu estes modificando solo un archivo que hay en ese repositorio.
+[git add .] digamos que añade  todo lo que hemos modificado dentro del repositorio donde este aunque tu estes modificando solo un archivo que hay en ese repositorio.  
 [git add archivo] añade sólo lo modificado en el archivo que estas trabajando.  
   posteriormente añadir siempre un commit
 
