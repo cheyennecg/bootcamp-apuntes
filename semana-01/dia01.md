@@ -21,7 +21,8 @@ https://anais-rv.github.io/da-roadmap/
 ## 🔍 Comandos investigados
 
 ### git log --oneline
-Te muestra el historial de puntos de guardado que puedes usar como recurso para saber en que punto te has quedado.
+Te muestra el historial de puntos de guardado (commit) que puedes usar como recurso para saber en que punto te has quedado.
+Siendo el primero en la lista el último guardado.  
 Por eso es importante que los commit sean claros y bien descriptivos sobre el trabajo que has estado haciendo por última vez.  
 ### git remote -v
 Da la info de las URL en las que están conectadas tus proyectos.  
@@ -32,13 +33,12 @@ Lista todas las ramas creadas y la rama que esta con un * y de color verde es do
 
 ### git pull
 Actualiza y descarga toda la info que esta en remoto (Github) a local (El pc que estes usando)
-Es muy útil, porque cuando estais varias personas trabajando  en la misma rama te actualiza todo el trabajo.
+Es muy útil, porque cuando estais varias personas trabajando en la misma rama te actualiza todo el trabajo o si no estas con tu PC principal puedes editar igualmente.
 
 ### .gitignore
-No es un comando es un archivo.
-Archivo  que contiene info que no quieres que se suban en GitHub.  
-Funciona como una etiqueta cuando lo lees en tu cmd para que git no suba esa info a GitHub.  
-"Modo oculto" para que cuando hagas un commit esta info no se suba a GitHub.  
+No es un comando, es un archivo.
+Su función es actuar como una etiqueta de exclusión  "Modo oculto": le indica a Git qué información no debe subir a GitHub.   
+Estará en modo oculto en GitHub pero no en git.  
 El . al principio indica que es oculto. 
 
 
