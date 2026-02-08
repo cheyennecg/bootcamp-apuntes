@@ -1,4 +1,4 @@
- # 📅 Día 1 - 02.02.26  
+ # 📅 Día 1 - 06.02.26  
 ## 🎯 Lo que hemos visto hoy  
 ### Mañana
 - Dinámica: Gartic Phone (sobre distorsión de información)
@@ -9,17 +9,18 @@
 - Primeros comandos: clone, status, add, commit, push
 
 ## 💡 Lo que he aprendido  
-
-Nomenclatura básica y comandos básicos
-
+Qué es git y git hub  
+Crear un repertorio  
+Clonar un repertorio  
+Añadir un md y un .gitignore  
 ## ❓ Dudas que tengo  
-¿Cómo borrar archivos md o moverlos de carpetas?  
+¿Cómo borrar archivos md?
+¿Se puede mover archivos a otros repertorios?  S 
 
 ## 🔗 Recursos útiles  
-https://anais-rv.github.io/da-roadmap/   
+https://education.github.com/git-cheat-sheet-education.pdf  
 
-## 🔍 Comandos investigados
-
+## 🔍 Comandos investigados  
 ### git log --oneline
 Te muestra el historial de puntos de guardado (commit) que puedes usar como recurso para saber en que punto te has quedado.  
 Siendo el primero en la lista el último guardado.  
