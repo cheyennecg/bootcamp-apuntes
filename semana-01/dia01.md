@@ -13,7 +13,7 @@
 Nomenclatura básica y comandos básicos
 
 ## ❓ Dudas que tengo  
-
+¿Cómo borrar archivos md o moverlos de carpetas?
 ## 🔗 Recursos útiles  
 https://anais-rv.github.io/da-roadmap/  
 
