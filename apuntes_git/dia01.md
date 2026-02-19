@@ -49,16 +49,16 @@ COSAS QUE PUEDEN PASAR : varias personas estéis modificando el proyecto a la ve
 
 
 PASO PARA ACTUALIZAR TU TRABAJO
-Cuando pulsas Ctrl + S, lo único que haces es decirle a Windows: "Escribe estos cambios en el archivo de mi ordenador". Importante antes de enviar la info a github
-El color naranja es el aviso de Git diciendo: "Veo que has guardado cosas nuevas en tu local, pero yo aún no las he procesado". Para que lleguen a GitHub, tienes que pasar por estas fases:
-git add: Metes el cambio en la "sala de espera" (el archivo sigue naranja pero Git ya lo tiene anotado).
-git commit-m :Creas la versión oficial en tu historial local explicando tu cambio resumidamente. Aquí el archivo deja de estar naranja y vuelve al color normal).
-git push: Es el único paso que envía la información a GitHub
+Cuando pulsas Ctrl + S, lo único que haces es decirle a Windows: "Escribe estos cambios en el archivo de mi ordenador". Importante antes de enviar la info a github  
+El color naranja es el aviso de Git diciendo: "Veo que has guardado cosas nuevas en tu local, pero yo aún no las he procesado". Para que lleguen a GitHub, tienes que pasar por estas fases:  
+*git add*: Metes el cambio en la "sala de espera" (el archivo sigue naranja pero Git ya lo tiene anotado).  
+*git commit-m* :Creas la versión oficial en tu   historial local explicando tu cambio resumidamente. Aquí el archivo deja de estar naranja y vuelve al color normal).  
+*git push*: Es el único paso que envía la información a GitHub
 
 
 
-CREAR GITIGNORE (datos que son comprometidos y no los quieres tener en GitHub)
-echo "Thumbs.db" >> .gitignore # Windows
-echo "*.tmp" >> .gitignore # Archivos temporales
+CREAR GITIGNORE (datos que son comprometidos y no los quieres tener en GitHub)  
+echo "Thumbs.db" >> .gitignore # Windows  
+echo "*.tmp" >> .gitignore # Archivos temporales  
 git add .gitignore
-git commit -m "c
+git commit -m ""
